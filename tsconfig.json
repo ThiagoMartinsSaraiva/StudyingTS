@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "module": "es6",
+    "removeComments": true,
+    "watch": true
+  },
+  "include": [
+    "*.ts"
+  ],
+  "compileOnSave": true
+}
