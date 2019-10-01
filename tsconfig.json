@@ -1,11 +1,11 @@
 {
   "compilerOptions": {
-    "noImplicitAny": false,
+    "noImplicitAny": true,
     "module": "es6",
     "removeComments": true,
     "watch": true
   },
-  "include": [
+    "include": [
     "*.ts"
   ],
   "compileOnSave": true
